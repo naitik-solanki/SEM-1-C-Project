@@ -1,0 +1,1 @@
+void convert(char* t,int x);
